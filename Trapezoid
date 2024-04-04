@@ -1,0 +1,5 @@
+h=int(input("Enter height: ")) 
+a = int(input("Enter parallel side: ")) 
+b= int(input("Enter parallel side: ")) 
+area=0.5*h*(a+b) 
+print("Area of the Trapezoid",area

@@ -1,0 +1,4 @@
+h=int(input("Enter height: ")) 
+b= int(input("Enter base: ")) 
+area=(b*h)
+print("Area of the Parallelogram",area)
